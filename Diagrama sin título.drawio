@@ -110,10 +110,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EuHx-cKdvZmqTTxaTF_3-91" value="nombre_usuario" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1207" y="-1294.5" width="94" height="48" as="geometry" />
+          <mxGeometry x="1139" y="-1299" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EuHx-cKdvZmqTTxaTF_3-92" value="correo_usuario" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="-1294.5" width="94" height="48" as="geometry" />
+          <mxGeometry x="1026" y="-1301.5" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EuHx-cKdvZmqTTxaTF_3-93" value="rol_usuario" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1012" y="-1467" width="74" height="48" as="geometry" />
@@ -179,9 +179,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EuHx-cKdvZmqTTxaTF_3-127" value="id_usuario" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1189" y="-1471" width="100" height="40" as="geometry" />
+          <mxGeometry x="1117" y="-1463" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EuHx-cKdvZmqTTxaTF_3-128" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EuHx-cKdvZmqTTxaTF_3-127">
+        <mxCell id="EuHx-cKdvZmqTTxaTF_3-128" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="EuHx-cKdvZmqTTxaTF_3-127">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1174" y="-1379" as="sourcePoint" />
             <mxPoint x="1271" y="-1330" as="targetPoint" />
@@ -268,7 +268,7 @@
             <mxPoint x="863" y="-1394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuHx-cKdvZmqTTxaTF_3-149" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="EuHx-cKdvZmqTTxaTF_3-149" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.703;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EuHx-cKdvZmqTTxaTF_3-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1101" y="-1379" as="sourcePoint" />
             <mxPoint x="1121.75" y="-1440" as="targetPoint" />
